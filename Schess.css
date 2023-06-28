@@ -1,0 +1,69 @@
+.Board{
+    height: 640px;
+    width: 640px;
+    border: 30px solid #a87132;
+    margin: auto;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    box-shadow: 5px 5px 10px gray, -5px -5px 10px gray;
+}
+.row1{
+    height: 80px;
+    width: 640px;
+    display: flex;
+    
+    
+}
+.white{
+    height: 80px;
+    width: 80px;
+    background-color: white;
+    font-size: 50px;
+    text-align: center;
+    color: #a83248;
+}
+.black{
+    height: 80px;
+    width: 80px;
+    background-color: black;
+    font-size: 50px;
+    text-align: center;
+    color: #a83248;
+}
+.row2{
+    height: 80px;
+    width: 640px;
+    display: flex;
+}
+.row3{
+    height: 80px;
+    width: 640px;
+    display: flex;
+}
+.row4{
+    height: 80px;
+    width: 640px;
+    display: flex;
+}
+.row5{
+    height: 80px;
+    width: 640px;
+    display: flex;
+}
+.row6{
+    height: 80px;
+    width: 640px;
+    display: flex;
+}
+.row7{
+    height: 80px;
+    width: 640px;
+    display: flex;
+}
+.row8{
+    height: 80px;
+    width: 640px;
+    display: flex;
+}
